@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:6C3BFF,100:00D4FF&height=220&section=header&text=JOSEPH%20HANI&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20AUTOMATION%20%C2%B7%20PRODUCTS&descAlignY=58&descSize=16" alt="Joseph Hani — AI, Automation, Products" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:6C3BFF,100:00D4FF&height=220&section=header&text=JOSEPH%20H.&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20AUTOMATION%20%C2%B7%20PRODUCTS&descAlignY=58&descSize=16" alt="Joseph H. — AI, Automation, Products" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=7DD3FC&center=true&vCenter=true&width=700&lines=I+turn+complex+workflows+into+simple+products.;Building+AI-powered+tools+that+actually+ship.;VIBECORE+LVL999%2B+%E2%9A%A1)](https://git.io/typing-svg)
 
@@ -78,15 +78,6 @@ CREATIVE TECH    ███████░░░  EXPLORING</pre>
 ![Git](https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
-
-## 🚀 Selected builds
-
-| Project | What it does | Core |
-|:--|:--|:--|
-| [**Body Morpho AI**](https://github.com/KnocKnuck/body-morpho-ai) | Live, sensorless morphological body recognition | Python · OpenCV · NumPy |
-| [**Market Prediction AI**](https://github.com/KnocKnuck/market-prediction-ai) | Experiments in financial-market prediction | Python · TensorFlow |
-| [**Fraud Card**](https://github.com/KnocKnuck/fraud-card) | Credit-card fraud detection | Python · Machine Learning |
-| [**Tour2Book**](https://github.com/KnocKnuck/node-tour2book-app) | Road-trip and hiking platform with a REST API | Node.js · Express · MongoDB |
 
 ## 📊 Signal, not noise
 
